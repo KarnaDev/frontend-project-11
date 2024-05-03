@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/KarnaDev/frontend-project-11/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/KarnaDev/frontend-project-11/actions)",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarnaDev/frontend-project-11.git"
+  },
+  "keywords": [],
+  "author": "Polina Karna",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
