@@ -17,6 +17,9 @@ RSS Reader is a service for aggregating RSS feeds, which makes it convenient to 
 * eslint
 * eslint-config-airbnb-base
 * eslint-plugin-import
+* webpack
+* webpack-cli
+* html-webpack-plugin
 
 ---
 
