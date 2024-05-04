@@ -10,16 +10,25 @@ RSS Reader is a service for aggregating RSS feeds, which makes it convenient to 
 
 ### Dependencies:
 **dependencies:**
-* 
-
+* bootstrap
 
 **devDependencies:**
+* @babel/core
+* @babel/preset-env
+* @webpack-cli/generators
 * eslint
 * eslint-config-airbnb-base
 * eslint-plugin-import
 * webpack
 * webpack-cli
+* webpack-dev-server
 * html-webpack-plugin
+* babel-loader
+* css-loader
+* postcss-loader
+* sass
+* sass-loader
+* style-loader
 
 ---
 
