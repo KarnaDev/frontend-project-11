@@ -1,8 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/KarnaDev/frontend-project-11/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/KarnaDev/frontend-project-11/actions)
-
 [![Node CI](https://github.com/KarnaDev/frontend-project-11/actions/workflows/main.yml/badge.svg)](https://github.com/KarnaDev/frontend-project-11/actions/workflows/main.yml)
-
 [![Maintainability](https://api.codeclimate.com/v1/badges/6512a0a41d243be442e1/maintainability)](https://codeclimate.com/github/KarnaDev/frontend-project-11/maintainability)
 
 ---
