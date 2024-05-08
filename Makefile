@@ -7,9 +7,6 @@ install:
 build:
 	NODE_ENV=production npx webpack
 
-publish:
-	npm publish --dry-run 
-
 link:
 	npm link
 
@@ -19,4 +16,5 @@ lint:
 fix:
 	npx eslint . --fix
 
-.PHONY: test
+remove:
+	rm -rf dist
